@@ -1,3 +1,4 @@
 Hello! 
+<<<<<<< HEAD
 This is an example.
 changes are made.
